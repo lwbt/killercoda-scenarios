@@ -1,0 +1,9 @@
+{
+  "description": "Tutorials to learn about the Jellyfin Flatpak.",
+  "items": [
+    {
+      "path": "1-getting-started"
+    }
+  ],
+  "title": "Jellyfin Flatpak"
+}

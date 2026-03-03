@@ -1,0 +1,12 @@
+{
+  "description": "Tutorials to learn how to use Chezmoi.",
+  "items": [
+    {
+      "path": "1-getting-started"
+    },
+    {
+      "path": "2-using-deploy-keys"
+    }
+  ],
+  "title": "WIP: Chezmoi"
+}

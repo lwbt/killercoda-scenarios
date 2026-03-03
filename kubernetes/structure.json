@@ -1,0 +1,9 @@
+{
+  "description": "My playground to work on Kubernetes tutorials.",
+  "items": [
+    {
+      "path": "ubuntu-simple"
+    }
+  ],
+  "title": "WIP: Kubernetes"
+}

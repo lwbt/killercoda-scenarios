@@ -1,0 +1,26 @@
+# AsciiDoc
+adoc
+toclevels
+Dockerfiles
+
+## pre-commit
+#autofix
+#shellcheck
+#shfmt
+#yamlfmt
+
+# mise
+oxipng
+prek
+
+# Names
+Cloudflared
+Jellyfin
+Justfile
+Killercoda
+Tailnet
+btop
+flathub
+jellyfin
+killercoda
+lazygit

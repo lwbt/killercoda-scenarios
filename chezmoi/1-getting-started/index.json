@@ -1,0 +1,35 @@
+{
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "description": "Multiple steps can have foreground and background scripts",
+  "details": {
+    "finish": {
+      "background": "finish/background.sh",
+      "foreground": "finish/foreground.sh",
+      "text": "finish/text.md",
+      "title": "Finish"
+    },
+    "intro": {
+      "background": "intro/background.sh",
+      "foreground": "intro/foreground.sh",
+      "text": "intro/text.md",
+      "title": "Intro"
+    },
+    "steps": [
+      {
+        "text": "step1/text.md",
+        "title": "Step1: Installation",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "background": "step2/background.sh",
+        "foreground": "step2/foreground.sh",
+        "text": "step2/text.md",
+        "title": "Step2",
+        "verify": "step2/verify.sh"
+      }
+    ]
+  },
+  "title": "Getting started with Chezmoi"
+}

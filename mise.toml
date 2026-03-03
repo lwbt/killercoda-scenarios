@@ -1,0 +1,5 @@
+[tools]
+just = "latest"
+ls-lint = "latest"
+oxipng = "latest"
+prek = "latest"

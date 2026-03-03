@@ -1,0 +1,18 @@
+= Killercoda Training Material
+:hide-uri-scheme:
+// Enable keyboard macros
+:experimental:
+:toc:
+:toclevels: 4
+:icons: font
+:note-caption: ℹ️
+:tip-caption: 💡
+:warning-caption: ⚠️
+:caution-caption: 🔥
+:important-caption: ❗
+
+// cspell:ignore
+
+== Introduction
+
+link:https://killercoda.com/lwbt84[Open the material on Killercoda here.]

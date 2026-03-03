@@ -1,0 +1,3 @@
+---
+ls:
+  .yaml: kebab-case | snake_case | SCREAMING_SNAKE_CASE
